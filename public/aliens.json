@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Harvester",
+    "email": "coresagainsthumanity@sheisall.com", 
+    "image": "./images/harvester.png"
+  },
+  {
+    "id": 2,
+    "name": "Martian",
+    "email": "ackackack@marsrules.com", 
+    "image": "./images/martian.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Precursor",
+    "email": "kaijumaster@anteverse.moc", 
+    "image": "./images/precursor.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Xenomorph",
+    "email": "yourchestasplode@aliens.com", 
+    "image": "./images/xenomorph.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Predator",
+    "email": "oneuglymother@predator.com", 
+    "image": "./images/predator.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Visitor",
+    "email": "probernumberone@skiesoversouthpark.com", 
+    "image": "./images/visitor.png"
+  },
+  {
+    "id": 7,
+    "name": "Covenant",
+    "email": "destroyallhumans@covenantempire.com", 
+    "image": "./images/covenant.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Flood",
+    "email": "potatozombies@gravemind.com", 
+    "image": "./images/flood.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Edgar",
+    "email": "sugarinwater@bugs.com", 
+    "image": "./images/edgar.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Zoot",
+    "email": "tackyzoot@livingclothes.com", 
+    "image": "./images/zoot.jpg"
+  }
+]
